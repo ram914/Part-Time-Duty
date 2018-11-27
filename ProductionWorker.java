@@ -1,3 +1,4 @@
+package exception;
 public class ProductionWorker extends Employee {
     private String shift;
     private double rate;
